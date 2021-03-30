@@ -1,4 +1,4 @@
-# proyecto-netflix
+# PROYECTO NETFLIX
  Netflix project in process
  
 Recursos y tecnologías utilizadas
